@@ -1,0 +1,20 @@
+Dependencies for Project '32F042_LCD-T191_RFM95', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5CF173BA)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F042x6 -DUSE_FULL_LL_DRIVER-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5978B3FE)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f042x6.h)(0x5978B3FE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F84E4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B588A16)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978B3FE)
+F (RTE\Device\STM32F042G4Ux\startup_stm32f042x6.s)(0x5C667F89)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include--pd "__UVISION_VERSION SETA 526" --pd "_RTE_ SETA 1" --pd "STM32F042x6 SETA 1"--list .\listings\startup_stm32f042x6.lst --xref -o .\objects\startup_stm32f042x6.o --depend .\objects\startup_stm32f042x6.d)
+F (RTE\Device\STM32F042G4Ux\system_stm32f0xx.c)(0x5C667F89)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F042x6 -DUSE_FULL_LL_DRIVER-o .\objects\system_stm32f0xx.o --omf_browse .\objects\system_stm32f0xx.crf --depend .\objects\system_stm32f0xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5978B3FE)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f042x6.h)(0x5978B3FE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F218E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F84E4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B588A16)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978B3FE)
